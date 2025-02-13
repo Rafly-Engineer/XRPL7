@@ -1,0 +1,15 @@
+h1 {
+    background-color: rgb(15, 254, 254);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+div{
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+}
+h2 {
+    background: linear-gradient(to right, red, yellow) ;
+    text-align: center;
+}
